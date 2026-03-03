@@ -7,9 +7,9 @@ import { motion } from 'framer-motion';
 export default function Hero() {
   const tagline = "Building reliable software, from first line to final test.";
   const subtitle =
-    "Full-stack developer and QA engineer who ships clean, well-tested web applications — and catches the bugs before your users do.";
+    "Full-stack developer and QA engineer who delivers clean, well-tested web applications — and catches the bugs before your users do.";
   const aboutParagraph =
-    "I'm a passionate software developer and QA engineer based in Nairobi, Kenya. With experience spanning full-stack development and quality assurance, I bring a unique perspective to building robust software. I specialize in React, Node.js, and test automation, and I'm committed to writing code that's not just functional, but maintainable and thoroughly tested. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or mentoring aspiring developers.";
+    "I'm a passionate software developer and QA engineer based in Nairobi, Kenya. With experience spanning full-stack development and quality assurance, I bring a unique perspective to building robust software. I specialize in React, Node.js,Typescript and QA testing, and I'm committed to writing code that's not just functional, but maintainable and thoroughly tested. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or mentoring aspiring developers.";
 
   return (
     <section className="min-h-screen pt-28 pb-16 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-gray-50 to-white">

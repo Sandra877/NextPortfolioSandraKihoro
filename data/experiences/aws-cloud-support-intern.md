@@ -2,7 +2,7 @@
 title: "AWS Cloud Support Intern"
 role: "AWS Cloud Support Intern"
 company: "Amazon Web Services (AWS)"
-timeframe: "2022 - 2023"
+timeframe: "February - March 2025"
 location: "Nairobi, Kenya"
 slug: "aws-cloud-support-intern"
 metaTitle: "AWS Cloud Support Intern | Sandra Kihoro"

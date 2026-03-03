@@ -2,7 +2,7 @@
 title: "QA Engineer Trainee"
 role: "QA Engineer Trainee"
 company: "Teach2Give"
-timeframe: "2024 - Present"
+timeframe: "September - December 2025"
 location: "Remote"
 slug: "teach2give-qa-engineer-trainee"
 metaTitle: "QA Engineer Trainee at Teach2Give | Sandra Kihoro"

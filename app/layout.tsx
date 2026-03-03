@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
   title: 'Sandra Kihoro | Full-stack Developer & QA Engineer',
-  description: 'Building reliable software, from first line to final test. Full-stack developer and QA engineer who ships clean, well-tested web applications.',
+  description: 'Building reliable software, from first line to final test. Full-stack developer and QA engineer who delivers clean, well-tested web applications.',
   keywords: ['Full-stack Developer', 'QA Engineer', 'Software Engineer', 'React', 'Node.js', 'Kenya'],
   authors: [{ name: 'Sandra Kihoro' }],
   openGraph: {

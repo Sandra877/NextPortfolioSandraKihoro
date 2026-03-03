@@ -2,7 +2,7 @@
 title: "QA Engineer"
 role: "QA Engineer"
 company: "Africa Cloud Space"
-timeframe: "2024 - Present"
+timeframe: "2026 -Present"
 location: "Nairobi, Kenya"
 slug: "africa-cloud-space-qa-engineer"
 metaTitle: "QA Engineer at Africa Cloud Space | Sandra Kihoro"

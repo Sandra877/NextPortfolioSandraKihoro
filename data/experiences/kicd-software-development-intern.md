@@ -2,7 +2,7 @@
 title: "Software Development Intern"
 role: "Software Development Intern"
 company: "Kenya Institute of Curriculum Development (KICD)"
-timeframe: "2023 - Present"
+timeframe: "April - August 2024"
 location: "Nairobi, Kenya"
 slug: "kicd-software-development-intern"
 metaTitle: "Software Development Intern at KICD | Sandra Kihoro"
